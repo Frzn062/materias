@@ -1,0 +1,23 @@
+#contenedor {
+    border-color: blueviolet;
+    border-style: solid;
+    padding: 20px;
+    position: relative;
+    height: 200px;
+}
+
+#contenedor-hijo {
+    background-color: black;
+    border-color: gray;
+    border: dashed;
+    color: gray;
+    font-family: Arial;
+    font-size: 12px;
+    width: 75px;
+    padding: 15px;
+    text-align: center;
+    position: absolute;
+    left: 230px;
+    top: 70px; 
+    
+}
